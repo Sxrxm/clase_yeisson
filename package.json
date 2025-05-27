@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "express": "^4.21.2",
+    "formulario": "file:",
     "serve": "^14.2.4"
   }
 }
